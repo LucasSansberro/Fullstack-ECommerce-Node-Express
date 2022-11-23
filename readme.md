@@ -2,77 +2,63 @@
 
 ## Made for the Coderhouse Backend course
 
-![Ejercicio redactado](./Pics/entrega-7-imagen-1.png)
 
-## Prueba de método GET
+
+## GET Test
 
 ![Prueba de método GET](./Pics/productosGetTest.gif)
 ![Prueba de método GET](./Pics/productosGetTest.png)
 ![Prueba de método GET](./Pics/productosGetTest2.png)
 
-## Prueba de método POST
+## POST Test
 
 ![Prueba de método POST](./Pics/productosPostTest.gif)
 ![Prueba de método POST](./Pics/productosPostTest.png)
 
-## Prueba de método PUT
+## Put Test
 
 ![Prueba de método PUT](./Pics/productosPutTest.gif)
 ![Prueba de método PUT](./Pics/productosPutTest.png)
 ![Prueba de método PUT](./Pics/productosPutTest2.png)
 
-## Prueba de método DELETE
+## Delete Test
 
 ![Prueba de método DELETE](./Pics/productosDeleteTest.gif)
 ![Prueba de método DELETE](./Pics/productosDeleteTest.png)
 
-## Prueba de Middleware
+## Middleware Test
 
 ![Prueba de Middleware](./Pics/productosMiddlewareTest.gif)
 
-## Ruta carrito
+## Cart route
 
-![Ejercicio redactado](./Pics/entrega-7-imagen-2.png)
-
-## Prueba de método GET Carrito
+## Get Cart Test
 
 ![Prueba de método GET](./Pics/carritoGetTest.gif)
 ![Prueba de método GET](./Pics/carritoGetTest.png)
 ![Prueba de método GET](./Pics/carritoGetTest2.png)
 
-## Prueba de método POST Carrito
+## Post Cart Test
 
 ![Prueba de método POST](./Pics/carritoPostTest.gif)
 ![Prueba de método POST](./Pics/carritoPostTest.png)
 
-## Prueba de método DELETE Carrito
+## Delete Cart Test
 
 ![Prueba de método DELETE](./Pics/carritoDeleteTest.gif)
 ![Prueba de método DELETE](./Pics/carritoDeleteTest.png)
 
-## Prueba de método POST producto
+## Post Product in cart Test
 
 ![Prueba de método POST](./Pics/carritoPostProductoTest.gif)
 ![Prueba de método POST](./Pics/carritoPostProductoTest.png)
 ![Prueba de método POST](./Pics/carritoPostProducto2Test.png)
 
-## Prueba de DELETE producto
+## Delete Product in cart Test
 
 ![Prueba de método DELETe](./Pics/carritoDeleteProductoTest.gif)
 ![Prueba de método POST](./Pics/carritoDeleteProductoTest.png)
 
-## Persistencia de datos
+## Data persistence
 
 ![Ejercicio redactado](./Pics/entrega-7-imagen-3.png)
-
-![Ejercicio redactado](./Pics/entrega-7-imagen-4.png)
-
-![Ejercicio redactado](./Pics/entrega-7-imagen-5.png)
-
-![Ejercicio redactado](./Pics/entrega-7-imagen-6.png)
-
-![Ejercicio redactado](./Pics/entrega-7-imagen-7.png)
-
-## Prueba con Glitch
-
-![Prueba con Glitch](./Pics/PruebaGlitch.png)
