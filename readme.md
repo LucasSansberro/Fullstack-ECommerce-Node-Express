@@ -1,4 +1,6 @@
-# Entrega 7
+# Fullstack ECommerce - Node | Express | Filesystem
+
+## Made for the Coderhouse Backend course
 
 ![Ejercicio redactado](./Pics/entrega-7-imagen-1.png)
 
