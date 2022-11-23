@@ -58,7 +58,3 @@
 
 ![Prueba de método DELETe](./Pics/carritoDeleteProductoTest.gif)
 ![Prueba de método POST](./Pics/carritoDeleteProductoTest.png)
-
-## Data persistence
-
-![Ejercicio redactado](./Pics/entrega-7-imagen-3.png)
